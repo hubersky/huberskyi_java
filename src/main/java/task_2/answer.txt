@@ -1,0 +1,3 @@
+This example bracket sequence is incorrect: [((())()(())]]
+If we want make this sequence correct we have to change penultimate bracket : from this "[" to this ")".
+For example :[((())()(()))]. So this is the correct construction of the closing brackets.
